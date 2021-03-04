@@ -1,0 +1,92 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Rizin
+Upstream-Contact: RizinOrg <info@rizin.re>
+Source: https://github.com/rizinorg/rizin
+
+Files: test/db/**
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: **/*.sdb.txt
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: .github/**
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: .appveyor.yml
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: .builds/*
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: .clang-format
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: .gitattributes
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: .gitignore
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: .pylintrc
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: *.yml
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: *.md
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: **/meson.build
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: doc/fortunes*
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: doc/hud
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: doc/img/rizin.svg
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: test/notworking_db/*
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: test/Makefile
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: test/.gitignore
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: test/fuzz/**
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: test/scripts/**
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: test/unit/legacy_unit/**/*
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: shlr/rizin-shell-parser/*
+Copyright: 2020 ret2libc <sirmy15@gmail.com>
+License: LGPL-3.0-only
