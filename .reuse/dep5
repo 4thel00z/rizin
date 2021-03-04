@@ -138,3 +138,15 @@ License: BSD-2-Clause
 Files: pkgcfg/*.pc.acr
 Copyright: 2009 RadareOrg <pancake@nopcode.org>
 License: LGPL-3.0-only
+
+Files: subprojects/*.wrap
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: test/unit/.gitignore
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
+
+Files: test/unit/rz_test_cmd_test
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: CC0-1.0
