@@ -1,4 +1,6 @@
-/* rizin - LGPL - Copyright 2017 - pancake, condret */
+// SPDX-FileCopyrightText: 2017 pancake <pancake@nopcode.org>
+// SPDX-FileCopyrightText: 2017 condret <condr3t@protonmail.com>
+// SPDX-License-Identifier: LGPL-3.0-only
 
 #include "rz_io.h"
 #include "rz_lib.h"
