@@ -49,7 +49,15 @@ License: CC0-1.0
 
 Files: **/meson.build
 Copyright: 2021 RizinOrg <info@rizin.re>
-License: CC0-1.0
+License: LGPL-3.0-only
+
+Files: meson.build
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: LGPL-3.0-only
+
+Files: meson_options.txt
+Copyright: 2021 RizinOrg <info@rizin.re>
+License: LGPL-3.0-only
 
 Files: doc/fortunes*
 Copyright: 2009 RadareOrg <pancake@nopcode.org>
@@ -89,4 +97,28 @@ License: LGPL-3.0-only
 
 Files: shlr/rizin-shell-parser/*
 Copyright: 2020 ret2libc <sirmy15@gmail.com>
+License: LGPL-3.0-only
+
+Files: CODEOWNERS
+Copyright: 2020 RizinOrg <info@rizin.re>
+License: LGPL-3.0-only
+
+Files: Dockerfile*
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: Doxyfile
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: dist/**
+Copyright: 2020 RizinOrg <info@rizin.re>
+License: LGPL-3.0-only
+
+Files: binrz/rizin/*
+Copyright: 2009 RadareOrg <pancake@nopcode.org>
+License: LGPL-3.0-only
+
+Files: man/*
+Copyright: 2020 RizinOrg <info@rizin.re>
 License: LGPL-3.0-only
